@@ -1,6 +1,8 @@
-export default function Services() {
+export default function Solutions() {
     return (
         <div>
         </div>
     );
 }
+
+

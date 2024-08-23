@@ -1,6 +1,14 @@
-export default function Services() {
+
+export default function Footer() {
     return (
         <div>
         </div>
     );
 }
+
+
+
+
+
+
+
