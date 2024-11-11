@@ -6,6 +6,7 @@ import Solutions from "@/pages/Solutions"
 import AboutUs from "@/pages/AboutUs"
 import Testimonial from "@/pages/Testimonials";
 import Navbar from '../components/layout/Navbar';
+import Footer from "@/components/layout/Footer";
 
 export default function Page() {
   return (
@@ -16,6 +17,7 @@ export default function Page() {
       <Solutions />
       <AboutUs />
       <Testimonial />
+      <Footer />
     </div>
   );
 }
